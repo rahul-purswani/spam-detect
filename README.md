@@ -1,1 +1,1 @@
-# spam-detect
+# spam-detect - Bernoulli classifier from scratch
