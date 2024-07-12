@@ -1,2 +1,2 @@
 # Spam Detect - Bernoulli Classifier from Scratch
-This repository showcases a Bernoulli Classifier designed to meticulously filter spam from legitimate SMS messages (ham/spam). Constructed from the ground up, the classifier harnesses the robust ham/spam dataset to compute conditional probabilities and apply the principles of Bernoulli Naive Bayes for effective spam detection. Central to this project is the meticulous management of a vocabulary dictionary, critical for analyzing and processing the text data accurately.
+In this project, I developed a spam detection system that classifies SMS messages as either spam or ham (non-spam) using a Bernoulli Naive Bayes model. The project involves data preprocessing, feature extraction, and model implementation from scratch.
